@@ -1,16 +1,34 @@
-# BruteX
-BruteX is A bruteForce attacking tool
+<h1 align="center">BruteX</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/MrHacker-X/BruteX?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/MrHacker-X/BruteX?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/MrHacker-X/BruteX?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/MrHacker-X/BruteX?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/MrHacker-X/BruteX?style=for-the-badge&color=blue"><br>
+  <img src="https://hits.dwyl.com/MrHacker-X/BruteX.svg" width="140" height="28">
+<br>
+<br>
+  <img src="https://img.shields.io/badge/Author-Alex Butler-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
+</p>
+
 
 ## Whats New
 + ```Fixed tor error```
 + ```Added update feature```
 + ```Enhanced Features```
 
+## Visitor
+
+<img src="https://hits.dwyl.com/MrHacker-X/BruteX.svg" width="140" height="28"><br>
+
+> Note: Counting from 01 June 2023
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=MrHacker-X/BruteX&type=Date)](https://star-history.com/#samsesh/SocialBox-Termux&Date)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=MrHacker-X/BruteX&type=Date)]
 
 
 ### Features Of BruteX:
